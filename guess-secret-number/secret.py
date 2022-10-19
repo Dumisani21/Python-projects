@@ -23,7 +23,7 @@ def check_guess(num,secret_num):
 
 secret = int(gen_secret())
 guess_left = 12
-print(secret)
+# print(secret)
 print('4-digit Code has been set. Digits in range 1 to 8. You have 12 turns to break it.')
 while not guess_left == 0:
 
