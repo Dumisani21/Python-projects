@@ -1,5 +1,6 @@
 '''
 Nine lives games
+By Dumisani
 '''
 from random import randint as select
 
